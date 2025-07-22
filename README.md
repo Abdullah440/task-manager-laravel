@@ -15,12 +15,6 @@ A simple and responsive Task Manager built with **Laravel**, **Bootstrap**, and 
 
 ---
 
-## 📸 Screenshots
-
-*(Add your screenshots here if available)*
-
----
-
 ## 🧑‍💻 Tech Stack
 
 - PHP 8+ / Laravel 12
